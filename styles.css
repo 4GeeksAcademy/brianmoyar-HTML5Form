@@ -1,0 +1,35 @@
+
+#somefields {
+  margin-bottom: 15px;
+}
+.card-footer {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.btn-primary {
+  margin: 5px;
+}
+
+#displayizquierdo {
+  width: 100%;
+  max-width: 800px;
+}
+
+#displayderecho {
+  width: 100%;
+  max-width: 800px;
+  padding-left: 20px;
+}
+
+#espacios {
+  margin-bottom: 0%;
+}
+
+.small-text {
+  font-size: 12px; 
+  color: #808080; 
+}
+
+
+
